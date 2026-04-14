@@ -88,7 +88,7 @@ pylint = "^3.3.7"
 bandit = "^1.8.3"
 
 # Testing
-pytest = "^8.4.0"
+pytest = ">=8.4,<10.0"
 pytest-asyncio = "^1.0.0"
 pytest-cov = "^6.1.1"
 pytest-mock = "^3.14.1"
